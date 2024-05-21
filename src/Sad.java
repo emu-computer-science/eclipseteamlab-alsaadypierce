@@ -4,4 +4,8 @@ public class Sad {
 		
 	System.out.println("I am sad!");
 	}
+	
+	public static void ahmad() {
+		System.out.println("Ahmad wrote this");
+	}
 }
