@@ -8,6 +8,7 @@ public class Driver {
 		Sad.sad();
 		Glad.glad();
 		Sad.ahmad();
+		Glad.superGlad();
 	}
 }
 	
